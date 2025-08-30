@@ -1,0 +1,1001 @@
+Invoice_ID,Customer_Name,Date,Amount,Country,Payment_Mode,Product_Category
+INV328,Allison Hill,24-01-2024,,UAE,Debit Card,LAPTOPS
+INV053,Brian Yang,30-09-24,21385.13,India,Credit Card,LAPTOPS
+INV309,Javier Johnson,20-01-2024,35942.97,,Debit Card,Tvs
+INV004,Lance Hoffman,2025/02/10,17342.4,UK,Debit Card,ACCESSORIES
+INV195,Kimberly Robinson,03-11-2024,17525.81,UAE,Credit Card,Tvs
+INV194,Sean Blake,06-12-2023,41555.53,Canada,UPI,laptops
+INV117,Gina Moore,"19 March, 2025",42838.23,USA,,Accessories
+INV084,Brandon Davis,"23 May, 2025",33673.67,USA,UPI,laptops
+INV237,Dennis Williams,2024.07.25,46306.86,Germany,Net Banking,Accessories
+INV118,Valerie Gray,05-10-2024,20357.66,USA,Debit Card,devices
+INV336,Mark Mcclure,2024.05.10,45770.11,australia,Debit Card,ACCESSORIES
+INV382,Michele Williams,28-01-24,37477.18,,UPI,Tvs
+INV071,Victoria Wyatt,07-06-25,37911.22,USA,Debit Card,laptops
+INV033,Donald Reid,2024.05.13,49808.01,UAE,UPI,mobile
+INV454,Henry Santiago,30-01-25,38545.64,Canada,Credit Card,accessories
+INV489,Maria Lynch,"14 December, 2023",38217.13,USA,Net Banking,accessories
+INV102,Danielle Ford,2024/02/29,8496.68,India,UPI,accessories
+INV186,Margaret Hawkins DDS,"19 May, 2025",12423.14,USA,Credit Card,Tvs
+INV273,Amy Underwood,2025/04/20,24026.48,UK,Cash,devices
+INV109,Derek Clark,17-10-24,34648.45,UAE,,accessories
+INV062,Emily Rios,2024/06/06,17235.24,Germany,UPI,LAPTOPS
+INV363,Maria Thomas,20-11-2023,45318.29,Canada,Credit Card,DEVICES
+INV343,Justin Baker,2024.10.31,7049.44,australia,Debit Card,tvs
+INV050,Kevin Cox,2023.11.19,20849.56,India,Net Banking,MOBILE
+INV373,Ann Williams,"28 October, 2023",5908.82,Germany,Debit Card,devices
+INV143,Christopher Becker,2024.11.09,46201.65,australia,UPI,MOBILE
+INV277,James Ferrell,17-09-2024,46355.17,Germany,Debit Card,tvs
+INV206,Juan Dunlap,13-01-2025,606.69,,Cash,TVS
+INV357,Melanie Herrera,27-02-24,24590.23,Germany,Cash,laptops
+INV278,Gina Carter,04-12-2023,3329.68,australia,UPI,DEVICES
+INV492,Troy Liu,24-02-24,9698.34,USA,Net Banking,Laptops
+INV292,Pamela Romero,2023/10/25,2467.21,USA,,devices
+INV134,Elizabeth Fowler,2024/11/19,16052.1,UAE,,laptops
+INV162,James Martin,30-03-2025,,USA,Credit Card,DEVICES
+INV136,Tamara George,2024/08/17,44102.78,Germany,Cash,ACCESSORIES
+INV427,Timothy Koch,10-05-25,30778.05,India,Net Banking,DEVICES
+INV340,Cynthia Allen,17-10-2024,7147.41,USA,Credit Card,DEVICES
+INV145,Angelica Tucker,26-09-23,17472.57,UAE,UPI,TVS
+INV465,Kim Martinez,28-12-2024,21467.0,UAE,Credit Card,mobile
+INV135,Joshua Baker,2025/06/11,27808.18,,UPI,MOBILE
+INV484,Tracey Hickman,2025/03/12,41812.45,UK,,LAPTOPS
+INV187,Christina Collins,06-01-2025,10898.79,Germany,Net Banking,mobile
+INV448,Jessica Holmes,2023.11.05,37599.14,Germany,Debit Card,laptops
+INV378,Austin Smith,"07 October, 2024",20879.8,Germany,Cash,laptops
+INV447,Daniel Jones,06-12-2024,11510.47,australia,Cash,Accessories
+INV115,Austin Johnson,16-04-2024,20224.07,UAE,Credit Card,accessories
+INV348,David Caldwell,17-01-24,1866.23,UAE,Debit Card,devices
+INV056,Miranda Khan,24-10-24,36562.98,Canada,,devices
+INV461,Richard Aguirre,29-12-23,2697.13,,Credit Card,devices
+INV369,Matthew Gomez,2024/06/18,3963.7,Canada,UPI,accessories
+INV461,Nicholas Nunez,"17 December, 2024",33511.2,Canada,,accessories
+INV341,James Morgan,2025.06.03,45188.87,UAE,,devices
+INV108,Corey Herrera,2023.11.20,30529.75,Canada,,tvs
+INV243,Donald Wright,2025/07/21,14547.43,Canada,Credit Card,laptops
+INV102,Robert Chase,2023/10/19,,Germany,,devices
+INV213,Zachary Huff,15-10-23,34969.54,australia,,LAPTOPS
+INV353,Sarah Martin,15-08-2024,43091.81,USA,,LAPTOPS
+INV491,Dr. Steven Martin,05-08-23,28091.59,USA,,Laptops
+INV287,Mrs. Rachel Gibson,27-06-24,37884.88,australia,UPI,Devices
+INV229,Monica Logan,2024/12/30,23996.38,UAE,Debit Card,accessories
+INV321,Brittney Phillips,2023/09/18,4335.43,UAE,Debit Card,Accessories
+INV042,Kimberly Adkins,2023/09/17,19460.25,UK,Net Banking,LAPTOPS
+INV209,John Calhoun,"19 September, 2024",21080.82,Germany,,tvs
+INV357,Tyler Miller,26-12-2023,38396.93,,,mobile
+INV200,Barry Hensley,2024.06.12,36864.39,Germany,,LAPTOPS
+INV249,Steve Sanchez,07-11-2024,33609.24,,Net Banking,Laptops
+INV319,Bradley Sandoval,16-10-24,,,UPI,devices
+INV220,Taylor Harris,2025/02/10,9495.59,UAE,,ACCESSORIES
+INV168,Derek Anderson,"17 December, 2024",19266.75,,Cash,Mobile
+INV027,Eugene Walton,"29 September, 2023",3896.61,India,Credit Card,LAPTOPS
+INV011,Marc Hart,20-10-23,6747.94,USA,UPI,laptops
+INV189,Daniel Baker,2025/07/28,48204.87,USA,Debit Card,ACCESSORIES
+INV014,Benjamin Sanchez,"12 March, 2024",45447.29,,,LAPTOPS
+INV354,Roy Warner,2024/11/21,38737.8,USA,UPI,mobile
+INV190,Dr. Kendra Contreras,07-10-2024,17390.94,,,mobile
+INV457,Matthew Mcmillan,2023.11.16,22056.61,UAE,UPI,devices
+INV423,Steve Newton,02-12-23,42659.8,USA,Cash,TVS
+INV238,Larry Robbins,09-01-24,19259.97,India,,ACCESSORIES
+INV109,Sarah Wagner,"15 February, 2024",17346.77,UAE,UPI,mobile
+INV124,Sarah Davis,2024.06.28,38029.15,australia,Net Banking,tvs
+INV151,Amanda Cook,2023/11/13,12543.61,Canada,,devices
+INV382,Deborah Figueroa,05-10-24,35291.32,UAE,Cash,ACCESSORIES
+INV370,Kristina Rodriguez,2025/06/19,37272.61,UK,Debit Card,laptops
+INV302,Brittany Johnson,16-05-24,49035.28,Germany,Cash,laptops
+INV363,Brittany Anderson,30-03-24,2753.03,India,UPI,accessories
+INV445,Timothy Stanton,2023.09.03,1107.14,UAE,,tvs
+INV027,Christine Wright,"22 October, 2023",24147.59,USA,,TVS
+INV323,Justin Baxter,28-11-2024,40651.53,UAE,Credit Card,LAPTOPS
+INV392,Tammy Young,2023.12.08,39641.67,Germany,UPI,tvs
+INV441,Rita Keith,23-08-23,15616.32,India,UPI,mobile
+INV109,Tim Patton,"18 June, 2024",8274.33,UK,UPI,MOBILE
+INV210,Sharon Cochran,2024.02.27,23760.67,India,Debit Card,Accessories
+INV233,Michael Reyes,03-09-2023,46233.6,Germany,,Mobile
+INV466,Courtney Velasquez,"26 July, 2024",4034.79,UK,Cash,devices
+INV148,Robert Savage,2024.01.24,34589.56,,Cash,devices
+INV307,Corey Murphy,05-06-2025,36859.43,UAE,Credit Card,MOBILE
+INV346,Raymond Bell,02-09-24,1526.9,UAE,UPI,mobile
+INV266,William Herrera,2025.08.02,9483.71,,Net Banking,tvs
+INV210,Shawn Green,"27 October, 2024",5677.69,UK,Cash,tvs
+INV484,Deborah Rodriguez,2024.07.06,27729.78,australia,Credit Card,ACCESSORIES
+INV060,Richard Graham,2024.09.04,41333.9,India,Net Banking,devices
+INV266,Steven Lee,"07 September, 2023",25175.41,australia,Credit Card,LAPTOPS
+INV068,April Frost,"25 September, 2024",35063.38,USA,Credit Card,Devices
+INV160,Teresa Mclaughlin,04-01-24,,,Credit Card,Laptops
+INV237,Benjamin Beck,16-04-2024,8121.57,UAE,UPI,accessories
+INV242,Mary Martinez,2025/07/03,7659.78,Germany,UPI,devices
+INV036,Eric Ortiz,"11 June, 2024",42793.41,Canada,UPI,accessories
+INV153,Kristen Lee,01-01-25,33167.07,UK,,devices
+INV391,Megan Orr,24-11-24,46676.19,Germany,Net Banking,laptops
+INV398,Jennifer Bass,2024.03.27,,australia,Net Banking,Tvs
+INV421,Jeffrey Carpenter,2024/12/24,2332.47,Canada,Credit Card,TVS
+INV467,Jeremy Lowe,2024.09.04,,UK,,LAPTOPS
+INV401,Steven Flynn,"13 December, 2023",34788.88,USA,Cash,devices
+INV368,Diane Beck,2024.11.26,2277.01,USA,Debit Card,Accessories
+INV223,Robert Potter,07-01-2025,35342.6,USA,,Laptops
+INV024,Robert Hernandez,"08 September, 2023",15021.7,Canada,,LAPTOPS
+INV211,John Atkinson,29-09-23,9412.82,UK,Credit Card,Devices
+INV124,Stephen Johnston,2025.02.11,7584.33,australia,Net Banking,Accessories
+INV461,Kathleen Sanchez,2024.12.25,34041.74,UK,Credit Card,Tvs
+INV154,Stephanie Dalton,2025.06.21,23113.37,UAE,Debit Card,tvs
+INV196,Jeffery Thompson,25-01-25,15145.68,UAE,Credit Card,TVS
+INV290,Amber Wright,23-05-2025,37386.02,UAE,Debit Card,devices
+INV098,Casey Marshall,19-09-24,37901.08,UK,Net Banking,Mobile
+INV159,Linda Dodson DVM,2024.11.21,,Canada,Net Banking,LAPTOPS
+INV152,Stephanie Simmons,"08 July, 2025",9194.18,UK,UPI,Accessories
+INV426,Stephanie Manning,2024/08/06,41322.15,australia,Cash,accessories
+INV039,Paul Larsen,2024/03/06,11667.93,,UPI,ACCESSORIES
+INV203,Kelly Sims,04-03-2024,6617.64,Canada,Net Banking,Accessories
+INV482,Micheal Young,"20 April, 2024",12074.18,India,UPI,Devices
+INV332,Joshua Taylor,30-01-2024,23481.24,UAE,Net Banking,TVS
+INV024,Christian Lewis,21-06-2024,24884.92,USA,Debit Card,DEVICES
+INV233,Joshua Perry,"11 January, 2024",37285.44,,UPI,Laptops
+INV427,Jean Carrillo,2025.01.25,46983.13,UAE,Credit Card,ACCESSORIES
+INV228,Spencer Johnston,2024/08/08,5418.05,Canada,UPI,ACCESSORIES
+INV142,Guy Molina,2025/05/27,47476.03,australia,Credit Card,laptops
+INV011,Sara Medina,24-02-2025,12556.66,UK,UPI,LAPTOPS
+INV392,Lindsey Walker,21-01-24,11189.59,Germany,Cash,laptops
+INV142,John Price,2025/01/04,27240.67,UK,Credit Card,MOBILE
+INV184,Jennifer Martin,2024/08/01,1281.16,UAE,Credit Card,laptops
+INV382,Veronica Ferguson,08-07-2025,39011.84,USA,,DEVICES
+INV315,Justin Johnson,15-12-2024,45483.21,UAE,,MOBILE
+INV246,Sean White,2024.02.22,5844.11,australia,Credit Card,mobile
+INV065,Daniel Murphy,"17 March, 2025",29475.55,Canada,,devices
+INV310,Diana Bean,2024.06.26,35238.08,Germany,,tvs
+INV424,Bradley Smith,2024.09.25,36615.82,Canada,,accessories
+INV079,Trevor Walker,2023.09.26,41672.71,USA,,mobile
+INV067,Marissa Webster,12-02-24,47852.92,Canada,Net Banking,Mobile
+INV482,Alex Hernandez,2023.11.10,36192.5,UAE,UPI,accessories
+INV109,Brian Gould,2024/07/30,11600.12,USA,Cash,Devices
+INV294,Pamela Jackson,2024/11/17,42335.18,India,UPI,ACCESSORIES
+INV140,Michelle Strickland,"09 December, 2023",17875.66,UK,Debit Card,devices
+INV380,Ashley Johnson,02-04-2024,26758.89,,,tvs
+INV370,Susan Brooks,"09 February, 2025",28595.88,USA,Credit Card,LAPTOPS
+INV317,Kevin Rivas,08-02-2024,13969.09,,,devices
+INV387,Raymond Jefferson,12-11-24,21780.72,UAE,Net Banking,Devices
+INV024,Rebecca Knight,2023/09/04,30166.59,India,Debit Card,Accessories
+INV392,Jeffrey Wood,"30 August, 2024",6439.23,australia,Net Banking,TVS
+INV195,Alexandria Fisher,18-08-24,25262.99,Canada,Credit Card,tvs
+INV010,Tyler Reid,2025.05.08,43174.45,,UPI,tvs
+INV059,Christian Thompson,2024.09.12,,Canada,Debit Card,Devices
+INV186,Debra Morton,25-09-2024,5740.23,,UPI,tvs
+INV159,Julie Petersen,"06 November, 2024",39066.33,USA,UPI,mobile
+INV398,Samuel Rivas,"10 October, 2023",47932.06,UK,Debit Card,MOBILE
+INV102,Jerry Christensen,2024/10/19,38130.66,USA,Debit Card,tvs
+INV297,Jamie Johnson,2025.05.25,44161.38,Canada,Net Banking,ACCESSORIES
+INV035,John Kelly,2024.02.20,15489.61,UAE,UPI,mobile
+INV237,Spencer Haynes,2024.03.05,,Canada,Cash,Mobile
+INV047,Kellie Lee,07-02-24,19531.88,India,,devices
+INV244,Katherine Chang,21-01-25,3562.75,USA,Cash,mobile
+INV127,Michael West,2023.08.17,26441.39,UK,Cash,accessories
+INV397,Daniel Holt,"28 March, 2024",3092.09,Canada,Credit Card,ACCESSORIES
+INV348,Jackie Tran,2024.04.27,36324.82,UK,Cash,mobile
+INV180,Patrick Rivera,"30 January, 2025",35074.76,,Debit Card,devices
+INV287,Eric Hall,2025.02.14,16759.59,UK,Net Banking,DEVICES
+INV344,Bryan Herrera,2025.03.18,1402.41,UAE,Debit Card,Laptops
+INV099,Cheryl Rodgers,2024/03/05,8169.79,UAE,Credit Card,Devices
+INV453,Vanessa Warren,10-03-24,,Canada,UPI,laptops
+INV093,Dr. Elizabeth Ward,25-03-24,8694.19,australia,Credit Card,Tvs
+INV497,Joseph Hill,2023.09.15,37743.36,australia,Debit Card,DEVICES
+INV495,Melissa Martinez,2025.06.08,10103.8,australia,,accessories
+INV215,Ashley Smith,2024/03/11,40162.33,UK,Cash,Mobile
+INV284,Jeremiah Lopez,12-09-2023,26037.51,USA,Cash,mobile
+INV464,Scott Wilson,23-09-23,22154.89,Germany,,accessories
+INV203,Benjamin Soto,14-09-23,19615.22,USA,Cash,LAPTOPS
+INV477,Robert Avery,09-10-2023,32673.05,UK,Debit Card,MOBILE
+INV425,Bailey Duran DDS,2025.04.09,7370.24,australia,,DEVICES
+INV041,Patricia James,09-07-2025,41830.67,,Credit Card,ACCESSORIES
+INV063,Scott Branch,28-03-2024,32128.11,australia,Credit Card,mobile
+INV275,Amy Choi,20-10-2023,28964.85,UK,Cash,TVS
+INV181,Christine Clark,2024/12/28,9772.04,USA,UPI,ACCESSORIES
+INV270,David Arnold,03-12-23,49422.41,India,,TVS
+INV199,Jerry Wheeler,"17 March, 2024",1303.99,USA,Cash,Laptops
+INV396,Dwayne Campbell,01-06-25,16959.67,India,Cash,Devices
+INV426,Michael Bradshaw,2025.04.06,24187.29,UK,Debit Card,Mobile
+INV019,Leah Lara,"04 January, 2024",39659.91,India,Cash,Accessories
+INV279,Joshua Holland,2025.07.09,37787.9,Germany,Cash,accessories
+INV336,Charles Brown,"10 April, 2025",40067.45,,,tvs
+INV499,Paul Carroll,2024/03/15,25127.41,UAE,Credit Card,TVS
+INV309,John Torres,2024/06/11,16399.97,USA,Cash,Accessories
+INV219,Kathryn Snyder,2023/10/05,17901.58,India,Net Banking,accessories
+INV328,Stacy Navarro,14-11-2024,32056.87,Canada,UPI,laptops
+INV312,Brandon Hayden,2025.05.14,,USA,Debit Card,Accessories
+INV017,Laurie Smith,20-03-25,22771.17,Canada,Cash,tvs
+INV272,Debra Williams,"13 March, 2025",32653.26,Germany,Credit Card,mobile
+INV199,Joseph Ramos,07-03-24,38860.74,australia,Debit Card,DEVICES
+INV470,Kevin Walters,2024.08.19,7218.56,USA,,laptops
+INV045,Julie Ortiz,"09 April, 2024",35622.25,UAE,Cash,Laptops
+INV327,Shannon Rivera,2025/01/23,25683.41,USA,Debit Card,LAPTOPS
+INV253,Matthew Morales DDS,01-09-2023,28827.73,australia,UPI,laptops
+INV159,Ernest Morris,2025.03.26,36084.05,,,DEVICES
+INV498,Jose Travis,"26 December, 2024",22773.74,Canada,Debit Card,devices
+INV495,Julia Brown,2024/09/09,45580.26,India,Credit Card,DEVICES
+INV085,Peter Garrett,2025/03/16,35611.94,Canada,UPI,accessories
+INV326,Derek Anderson,14-03-24,31438.61,USA,UPI,laptops
+INV088,Michael Martinez,05-12-24,30454.38,India,Credit Card,MOBILE
+INV329,Cynthia Moore,04-10-24,10935.01,,UPI,Mobile
+INV149,Jason Walker,"18 May, 2025",40332.06,,Cash,TVS
+INV031,Julia Wilson,2025/05/11,24470.43,Germany,Cash,DEVICES
+INV442,Timothy Carter,"01 February, 2025",43108.48,,Debit Card,accessories
+INV124,Ruben Baird,2024.02.09,22755.0,UK,Credit Card,MOBILE
+INV197,Charles Lee,11-11-24,48152.95,UK,Cash,devices
+INV082,Sherry Shields,2024.03.05,23607.35,UAE,,MOBILE
+INV202,Sarah Morgan,06-04-25,12416.07,Canada,Credit Card,MOBILE
+INV306,Samantha Campbell,2024.03.22,904.78,USA,,Laptops
+INV392,Lauren Keller,2025.06.06,20328.79,Germany,Cash,DEVICES
+INV198,Joshua Reed,05-10-24,27717.93,USA,Debit Card,Mobile
+INV174,Jamie Cantu,09-06-25,37870.78,Germany,UPI,devices
+INV020,Michael Armstrong,2024/02/01,40296.31,australia,Debit Card,devices
+INV477,Jennifer Flores,05-08-24,19951.25,UAE,UPI,accessories
+INV251,Roberta Hughes,31-12-24,40879.57,Canada,Cash,mobile
+INV408,Marissa Hernandez,01-09-2023,13643.76,Germany,Net Banking,mobile
+INV323,Vincent Rivera,20-10-23,19319.42,Germany,Credit Card,devices
+INV010,Jessica Fox,2024.07.23,7995.85,Germany,,Devices
+INV447,Charles Pitts,01-12-2023,26174.82,Canada,Net Banking,tvs
+INV089,Richard Baker,2024.11.30,17445.19,Canada,Net Banking,accessories
+INV127,Marie Christian,"27 May, 2025",11630.92,UAE,Cash,laptops
+INV246,Kimberly Finley,"02 December, 2024",46757.03,UAE,Cash,mobile
+INV459,Olivia Brennan,2023.08.31,47753.14,UK,Cash,MOBILE
+INV366,Cynthia Cohen,14-03-2024,22397.62,UAE,Net Banking,TVS
+INV424,Nicole Hamilton MD,08-12-24,28319.89,UAE,Debit Card,mobile
+INV125,Ashlee Jackson,23-03-2024,26786.55,Germany,Credit Card,Mobile
+INV052,Amber Flynn,2024/03/18,,UK,,tvs
+INV494,Jeffrey Sanchez,"19 June, 2024",32471.95,USA,Net Banking,DEVICES
+INV379,Rebecca Jackson,04-10-2023,9165.71,UK,Credit Card,tvs
+INV384,Janet Vega,"24 August, 2024",958.72,USA,Cash,Accessories
+INV269,Briana Murray,2024.02.17,7142.9,australia,Cash,laptops
+INV375,Michael Nolan,2024.07.30,36070.61,India,Net Banking,accessories
+INV388,Megan Moore,2024/07/12,42879.25,,,devices
+INV049,Victoria Evans,2024/06/28,24133.98,Germany,Credit Card,accessories
+INV137,Joyce Turner,"28 May, 2024",36282.69,India,Cash,accessories
+INV061,Ashley James,2024.05.08,20568.12,UAE,Net Banking,Mobile
+INV189,Wendy Phillips,09-05-25,47889.35,australia,Debit Card,Tvs
+INV213,Denise Knight,17-01-25,37988.85,Germany,Debit Card,devices
+INV229,Valerie Lozano,04-03-25,4366.08,USA,Credit Card,devices
+INV275,Tanner Mitchell DDS,2024/11/17,42797.06,australia,Credit Card,laptops
+INV461,Colleen Lee,14-02-24,3253.97,UK,UPI,tvs
+INV237,Michelle Hopkins,"16 May, 2025",20099.46,India,Net Banking,laptops
+INV177,Brent Burton,03-09-2023,3482.65,USA,,MOBILE
+INV093,Jeremiah Riley,2025/02/22,48927.5,,Cash,Tvs
+INV194,Theodore Murphy,2024.06.21,48225.15,UK,Net Banking,ACCESSORIES
+INV276,Carlos Ryan,2024.05.14,36528.98,Germany,Credit Card,mobile
+INV369,Susan Rivas,19-02-24,19274.19,Germany,Debit Card,tvs
+INV480,Terry Coffey,20-03-2024,,,UPI,MOBILE
+INV035,Gina Wilson,01-10-2023,22598.83,India,Debit Card,mobile
+INV112,Vincent Dalton,16-02-2025,49677.43,Germany,Net Banking,devices
+INV345,Jennifer Singleton,"09 October, 2024",43874.79,Germany,,ACCESSORIES
+INV286,Richard Smith,23-09-24,45623.09,,UPI,TVS
+INV177,Jacob Curry,2024.02.23,16277.36,,,LAPTOPS
+INV095,Samantha Bentley,27-10-23,42542.38,UAE,Net Banking,Laptops
+INV288,Kaitlyn Harvey,2024.10.13,28085.69,UK,,LAPTOPS
+INV170,Leonard Holland,09-12-2024,42433.1,USA,UPI,LAPTOPS
+INV194,Susan Turner,16-06-24,43744.21,Germany,UPI,DEVICES
+INV107,Andrew Johnson,"20 August, 2024",45495.21,Germany,Debit Card,Mobile
+INV469,David Medina,2024/05/31,35336.54,,Debit Card,devices
+INV239,Michael Paul,26-09-24,15766.9,Canada,UPI,Tvs
+INV370,Patrick Moore,2024.06.21,16351.55,Germany,Cash,accessories
+INV114,Sandra Gilbert,2025/08/02,,,Cash,LAPTOPS
+INV118,Amanda Wood,2024.07.13,12663.64,Canada,Cash,Tvs
+INV252,David Cox,2025.01.17,39851.29,UK,Debit Card,Devices
+INV278,Steven Newman,20-09-2023,42033.89,USA,Net Banking,mobile
+INV432,Colton Martinez,2025/05/23,7975.97,Germany,UPI,Tvs
+INV342,Anna Lewis,12-12-24,33134.57,India,Credit Card,devices
+INV272,Alison Buchanan,"09 February, 2024",14691.08,,Debit Card,mobile
+INV124,Rachel Harris DVM,2024/10/07,12994.7,Canada,Cash,TVS
+INV492,Daniel Kane,2024.04.15,12538.79,Germany,Cash,Mobile
+INV389,Rachel Carlson,06-03-2024,19273.57,australia,Credit Card,mobile
+INV433,Brianna Anderson,2024.02.14,16897.9,USA,UPI,MOBILE
+INV462,Ashley Delacruz,14-11-23,2804.82,USA,Net Banking,accessories
+INV017,Richard Young,2024/04/11,16066.99,Germany,UPI,Laptops
+INV204,Derek Martinez,25-06-2024,28415.93,,Net Banking,Devices
+INV072,Nichole Alvarez,30-03-2025,48729.0,India,Credit Card,TVS
+INV039,Kevin Hayes,"23 January, 2024",30886.33,,Cash,Mobile
+INV231,Amanda Logan,2025.06.07,27875.37,,,Laptops
+INV044,Elizabeth Schneider,28-08-23,12699.26,USA,Credit Card,ACCESSORIES
+INV365,John Morales,2025/01/17,16175.57,USA,Credit Card,mobile
+INV390,Micheal Wallace,"02 July, 2025",4821.21,,,devices
+INV014,Lee Jones,04-03-2024,5106.68,Canada,,MOBILE
+INV199,Lauren Joseph,25-05-2024,28197.06,Germany,UPI,DEVICES
+INV195,Kerry Chavez DDS,2023/10/20,15406.0,australia,Debit Card,MOBILE
+INV142,Ashley Pena,2025.06.15,39242.0,Canada,Cash,laptops
+INV316,Michelle Lewis,2024/07/19,7206.73,India,,accessories
+INV442,Jennifer Wilcox,"08 June, 2024",21815.5,UK,Cash,Accessories
+INV246,Brandon Simmons,"01 January, 2025",20212.86,Canada,Cash,Tvs
+INV167,Troy Mcdaniel,2024.08.06,39400.39,Canada,Credit Card,DEVICES
+INV280,Ronald Davis,2023/10/18,27729.91,australia,Net Banking,laptops
+INV355,Jacqueline Anderson,19-09-2023,39885.01,,Net Banking,TVS
+INV156,Kristina Rivera,2023/11/06,8130.09,,,mobile
+INV299,Shane Pugh,2024.06.27,46213.04,,UPI,mobile
+INV459,Michelle Schmitt,12-11-24,45762.86,USA,Debit Card,ACCESSORIES
+INV314,Brian Romero,02-12-2023,32429.04,,Cash,TVS
+INV051,Courtney Rodriguez,"21 May, 2025",37469.22,Germany,,Accessories
+INV302,Ashley Ramirez,26-01-24,49886.28,australia,Credit Card,Accessories
+INV060,Sarah Villegas,2025/04/30,17481.8,Germany,UPI,tvs
+INV370,Megan Hawkins,2024.11.19,15363.07,USA,Credit Card,Accessories
+INV085,Sandra Adams,2023/12/22,27819.56,Canada,UPI,tvs
+INV208,Phillip Dorsey,2024/05/02,33036.74,,Credit Card,devices
+INV220,Sergio Knight,2024.06.10,,Germany,Debit Card,Accessories
+INV033,Patrick Bonilla,14-10-23,43662.98,UK,Cash,ACCESSORIES
+INV059,Cindy Barnes,"24 April, 2024",24729.46,Canada,UPI,tvs
+INV179,Eric Nguyen,"17 October, 2024",31059.45,UAE,UPI,DEVICES
+INV069,Sophia Moore,"11 March, 2025",15616.31,UK,Cash,laptops
+INV071,Megan Nelson,30-12-24,9694.81,UK,UPI,laptops
+INV162,Lawrence Perry,2024.01.18,43343.35,India,,LAPTOPS
+INV197,Ashley Jordan,11-03-24,25001.01,australia,,tvs
+INV016,Leslie Rose,2024/03/30,14105.22,UAE,Debit Card,Tvs
+INV254,James Greene,09-08-23,28849.35,UAE,UPI,Accessories
+INV390,Tony Saunders,2025.03.19,49493.9,USA,Net Banking,LAPTOPS
+INV017,Garrett Smith,2025.03.06,43178.88,USA,,mobile
+INV416,Carl Patel,29-01-24,43121.91,,Debit Card,DEVICES
+INV106,Sandra Drake,2023/09/28,28718.68,UAE,UPI,DEVICES
+INV361,Patrick Graham,"26 July, 2024",13733.48,USA,Debit Card,Tvs
+INV444,Shannon Johnston,2024/10/22,7068.2,UK,Net Banking,Accessories
+INV347,Mark Roberts,2024.06.13,29082.56,UAE,Net Banking,tvs
+INV407,Frederick Solis,26-11-2024,37615.22,Canada,,tvs
+INV397,Michael Cox,08-07-2024,23193.24,Canada,Credit Card,Devices
+INV423,Dana Chapman,2024/09/13,16481.82,UAE,Cash,devices
+INV249,Seth Reese,"23 January, 2024",38231.57,India,Credit Card,TVS
+INV476,Christopher Dixon,2023/10/31,533.46,,Debit Card,laptops
+INV448,Cheyenne Parsons,"02 May, 2024",18341.55,USA,Cash,LAPTOPS
+INV321,Sabrina Briggs,"03 February, 2024",37883.99,,Net Banking,mobile
+INV245,David Thompson,30-11-2023,11696.45,australia,Credit Card,Mobile
+INV441,Mary Thompson,2025.03.26,24146.16,Germany,,mobile
+INV161,Julie Elliott,"27 October, 2024",7287.9,UK,Net Banking,LAPTOPS
+INV289,Thomas Cunningham,09-12-2024,8623.77,Canada,Net Banking,laptops
+INV211,Mrs. Tricia Stewart,10-07-24,43068.14,USA,Credit Card,laptops
+INV197,Jeremy Turner,"04 March, 2024",16067.93,UK,Debit Card,accessories
+INV308,Heather Jones,27-07-24,14603.58,India,Net Banking,ACCESSORIES
+INV311,Anthony Decker,02-10-23,19891.68,India,Debit Card,tvs
+INV327,Vanessa Davis,07-11-24,44491.86,India,Cash,ACCESSORIES
+INV441,Julie Spencer,10-04-25,27544.63,UK,,MOBILE
+INV035,Amanda Stout,21-10-2024,2471.43,India,,DEVICES
+INV365,Erica Alvarez,29-11-23,21466.97,,Credit Card,devices
+INV043,Joanna Shepherd,"15 May, 2025",46085.78,UK,UPI,Accessories
+INV428,Miguel Wagner,16-12-2023,22155.56,Germany,Credit Card,LAPTOPS
+INV223,Michael Ritter,14-09-2024,30637.2,UAE,Net Banking,LAPTOPS
+INV363,Caitlin Watson,2024/03/10,8609.72,Canada,UPI,Devices
+INV086,Raymond Shelton,"13 September, 2023",39165.64,UAE,Net Banking,mobile
+INV414,Maria Jones,2023.10.16,3661.66,USA,,tvs
+INV440,Jasmine King,26-05-25,8286.84,USA,UPI,MOBILE
+INV261,Susan Marks,18-04-2024,,India,Debit Card,mobile
+INV077,Matthew Rangel,2024/03/31,42945.52,,Debit Card,ACCESSORIES
+INV469,Melissa Myers,"08 November, 2024",4355.41,Canada,Credit Card,devices
+INV115,Angela Hansen,15-12-24,47726.93,USA,,accessories
+INV045,Robin Santiago,08-05-25,18761.51,UAE,UPI,accessories
+INV189,Yolanda Gaines,15-10-23,49890.46,Germany,Net Banking,devices
+INV004,Jessica Cox,2024.05.11,,Canada,Net Banking,mobile
+INV337,Trevor Peterson,2025.03.21,36497.14,USA,Debit Card,devices
+INV493,Mr. Chad Jones,20-05-2025,7547.49,UAE,Credit Card,Mobile
+INV267,Katie Fernandez,2025.02.27,18938.35,USA,UPI,Mobile
+INV202,Amanda Rogers,21-03-2025,3583.0,UK,Debit Card,ACCESSORIES
+INV162,Linda Moore,2023.12.22,36899.97,Canada,,ACCESSORIES
+INV484,Patricia Lamb,2023/12/10,38622.26,USA,Debit Card,MOBILE
+INV239,Amanda Diaz,"12 February, 2025",27028.27,Germany,,Accessories
+INV047,Jeremy Mitchell,2025/03/07,15558.64,India,Debit Card,ACCESSORIES
+INV365,Cynthia Allen,2025/04/23,20114.1,India,Net Banking,ACCESSORIES
+INV090,Stephanie Lee,11-01-2025,42802.76,Germany,Credit Card,TVS
+INV407,Victoria Murray,2024/03/09,3552.62,Germany,Debit Card,laptops
+INV323,Kathryn Barnes,07-12-2023,13311.62,USA,Credit Card,MOBILE
+INV331,Rebecca Taylor,2024.02.14,5052.94,Canada,Credit Card,mobile
+INV474,John Watson,29-07-25,36359.33,australia,Credit Card,tvs
+INV110,Ryan Rosales,2024/03/12,22577.57,UK,Credit Card,devices
+INV152,Christopher Cole,2024.09.05,27759.09,India,Credit Card,accessories
+INV330,Jeffrey Potts,23-01-24,49707.32,India,,Accessories
+INV177,Stacey Arias,21-06-24,19724.87,UK,Credit Card,accessories
+INV416,Jonathan Young,"06 October, 2023",49580.8,Canada,UPI,laptops
+INV337,Alfred Galvan,2025/05/16,40906.12,India,Debit Card,Devices
+INV182,Gabriela Thomas,2023/09/02,29829.72,Canada,UPI,mobile
+INV291,Ronald Horton,19-11-23,47444.24,australia,UPI,ACCESSORIES
+INV020,Julie Gilbert,07-07-2025,30282.31,India,UPI,TVS
+INV470,David Conley,03-10-24,6959.23,UK,Cash,MOBILE
+INV301,Lisa Henderson,2025/03/28,42400.8,Canada,Credit Card,Accessories
+INV301,Eric Williams,25-06-2024,16468.86,UK,Net Banking,Tvs
+INV333,Lisa Brown,"14 May, 2025",48452.77,Canada,Debit Card,devices
+INV376,Linda Smith,"07 September, 2024",36577.13,,UPI,MOBILE
+INV163,Michelle Carter,05-08-23,28494.74,australia,Debit Card,accessories
+INV164,Cynthia Butler,2025/01/01,48172.44,Canada,,MOBILE
+INV128,Kelly Ward,15-09-2024,39457.49,India,Credit Card,tvs
+INV086,Rachel Romero,2023.08.19,19246.27,,Credit Card,tvs
+INV389,John Reid,2024/05/19,4148.61,India,Cash,Mobile
+INV038,Alan Kramer,"27 April, 2024",19085.17,USA,UPI,Mobile
+INV458,Matthew Garcia,2024.10.28,21850.51,UK,UPI,TVS
+INV052,Evelyn Williams,"01 October, 2024",9904.22,UAE,Net Banking,ACCESSORIES
+INV050,Marvin Greer,16-01-2025,27708.3,australia,Debit Card,mobile
+INV151,Michael Welch,25-04-25,5300.85,Germany,Debit Card,accessories
+INV060,Mike Acevedo,"01 September, 2023",23811.75,UAE,Credit Card,devices
+INV196,Andrew Gonzalez,"05 September, 2023",2708.54,australia,,ACCESSORIES
+INV138,Eric Sanders,28-04-25,37735.64,USA,Credit Card,accessories
+INV388,Dawn Mullins,30-12-23,3518.7,,UPI,Tvs
+INV480,Scott Williams,2024.12.25,12164.28,UAE,Credit Card,Tvs
+INV258,Caleb Richardson,24-06-25,40122.29,UK,Credit Card,TVS
+INV086,Jeremiah Huber,2024/04/23,6746.21,,Credit Card,TVS
+INV422,Kathleen Jimenez,2025/07/21,13265.37,USA,Credit Card,tvs
+INV439,Debra Miller,"28 June, 2024",45899.51,India,Net Banking,Devices
+INV058,Lance Short,2024.09.30,28546.4,USA,Credit Card,Devices
+INV445,Brian Murphy,20-03-24,43955.73,UAE,,tvs
+INV089,Lance Simmons,"20 January, 2025",31103.1,,Credit Card,tvs
+INV122,Jeremy Acosta,12-07-2025,46081.33,Canada,Credit Card,accessories
+INV144,Zachary Hill,2025.04.09,34400.18,Germany,Debit Card,accessories
+INV423,Angela Walsh,"12 May, 2024",21130.25,USA,Debit Card,TVS
+INV422,Nicole Moore,2023.08.28,38094.92,Canada,Credit Card,devices
+INV364,Lawrence Harrington,31-08-23,39135.56,India,Debit Card,laptops
+INV030,David Brewer,2024/05/11,,India,Cash,LAPTOPS
+INV422,Keith Jacobs,2025.01.12,31952.79,USA,Net Banking,MOBILE
+INV251,Jacob Wallace,02-10-23,48045.76,australia,UPI,devices
+INV458,Kendra Sanders,"20 December, 2024",34598.1,UAE,Credit Card,TVS
+INV438,Tyler Johnson,26-12-23,11108.77,Germany,Net Banking,laptops
+INV210,Mr. Justin Green III,15-07-24,,India,,Laptops
+INV005,Logan Benson,2024/08/19,40351.74,UAE,Net Banking,accessories
+INV179,Chad Jones,2023.12.16,23601.55,,UPI,MOBILE
+INV340,Jill Miller,"14 January, 2025",29891.74,UAE,Cash,mobile
+INV142,Victoria Contreras,"05 February, 2025",13426.77,UAE,Debit Card,laptops
+INV030,Joshua Vance,26-05-25,16319.49,UK,Net Banking,Mobile
+INV133,Michael Graves,2023.12.17,36968.24,Germany,Cash,Laptops
+INV244,Katie Martinez,"07 January, 2024",42348.25,UK,Cash,Mobile
+INV372,Cynthia Snyder,10-05-24,9561.88,Canada,Net Banking,MOBILE
+INV115,Jackie Lara,"05 October, 2024",44398.76,Canada,Cash,DEVICES
+INV436,Stephen Jones,08-06-2024,43386.47,USA,,Laptops
+INV196,Dr. Kelly Hammond DVM,30-09-23,3176.07,UK,Debit Card,Laptops
+INV458,Evan Jones,2024.07.30,43188.5,UK,Credit Card,Tvs
+INV161,Haley Humphrey,01-04-2025,,UAE,Debit Card,laptops
+INV403,Laurie Saunders,12-11-2023,21968.72,,,tvs
+INV020,Thomas Brown,08-11-23,18968.52,India,Cash,DEVICES
+INV347,Elizabeth Martin,30-07-2025,12816.74,Canada,Cash,LAPTOPS
+INV258,Hannah Everett,29-06-25,3731.71,India,Cash,accessories
+INV269,Blake Gonzalez,"04 October, 2024",34495.62,UK,Cash,tvs
+INV486,Mario Mendez,2023.10.15,,Germany,Net Banking,LAPTOPS
+INV012,Caroline David,01-12-23,6596.52,India,,Accessories
+INV305,Marcus Winters,22-04-2024,32851.6,India,Credit Card,mobile
+INV281,Kristy Bryan,"26 August, 2023",8079.79,India,Cash,Tvs
+INV139,Travis Wise,25-02-24,7289.59,USA,UPI,DEVICES
+INV059,Pamela Butler,12-12-2024,30645.59,UAE,UPI,laptops
+INV083,Stephen Gardner,14-12-2024,45562.65,australia,Cash,LAPTOPS
+INV344,Karen Ballard,17-01-2025,41843.99,australia,Debit Card,mobile
+INV371,Jesse Barker,04-12-2023,32394.67,australia,Cash,accessories
+INV090,John Harris,17-11-2024,18330.63,Canada,,MOBILE
+INV389,Scott Flores,02-06-2025,,UK,Net Banking,Laptops
+INV490,James Hodges,06-09-24,36786.86,Canada,Cash,LAPTOPS
+INV205,Emma Owens,2024.02.27,19592.92,australia,,LAPTOPS
+INV357,Charles Williams,28-05-2024,42295.32,USA,,devices
+INV225,Jennifer Estes,2025/07/04,39068.63,India,Net Banking,laptops
+INV455,Garrett Lane,2024.04.02,3635.13,Canada,Credit Card,devices
+INV290,Christopher Ferrell,2024/07/31,33657.3,Canada,UPI,Devices
+INV222,Mr. Alexander Landry MD,2024/02/06,33353.68,,Debit Card,Devices
+INV006,Harry Williams,2024/08/22,23729.8,australia,Debit Card,mobile
+INV170,Sarah Chambers,"12 March, 2024",11523.97,,,LAPTOPS
+INV228,Sarah Jordan,19-06-25,42901.17,australia,Cash,Mobile
+INV010,Jacob Powell,08-09-2023,2273.68,India,Credit Card,Devices
+INV456,Kelly Lee,06-10-24,32902.5,australia,Cash,Accessories
+INV433,James Cole,2024.10.04,38487.11,australia,Net Banking,accessories
+INV389,William Becker,2023/11/04,,Canada,Net Banking,accessories
+INV055,Brent Brooks,23-04-2024,24874.9,,Credit Card,accessories
+INV477,Holly Thomas,2024.11.13,41315.43,Germany,Net Banking,ACCESSORIES
+INV213,Kathryn Williams,18-11-2023,41954.58,USA,,Tvs
+INV069,Regina Stone,2023.11.27,,India,UPI,tvs
+INV261,Kaylee Murphy,2024/11/22,9095.69,UK,Credit Card,Tvs
+INV165,James Jensen,19-05-25,21223.9,Germany,Cash,Tvs
+INV232,George Clayton,2024/09/20,30324.96,UAE,Net Banking,Devices
+INV479,Justin Wells Jr.,17-04-24,10444.01,UAE,Net Banking,accessories
+INV364,Veronica Silva,2025/04/13,34868.44,Canada,Net Banking,mobile
+INV299,Shelby Soto,09-11-24,35651.12,UAE,,mobile
+INV075,Walter Patton,28-03-2025,10395.17,UK,Cash,ACCESSORIES
+INV032,Crystal Williams,"11 August, 2024",27288.02,Canada,,Mobile
+INV288,Mark Harvey,2025/05/18,28282.89,Germany,UPI,accessories
+INV196,Roberto Allen,2024.10.21,39511.52,Canada,UPI,MOBILE
+INV129,Ashley Smith,2024/04/03,39155.78,australia,Debit Card,accessories
+INV309,Jason Harris,2024/08/27,48232.35,UAE,,laptops
+INV493,Tami Salas,2025/02/25,6408.01,India,,accessories
+INV300,Michele Stone,"12 October, 2024",,australia,Net Banking,LAPTOPS
+INV476,Matthew Fox,"03 April, 2024",38796.22,UAE,,devices
+INV363,Julia Patel,"01 October, 2024",47870.89,USA,UPI,laptops
+INV048,Raymond Le,"15 December, 2024",11061.01,Canada,Cash,ACCESSORIES
+INV487,Deborah Washington,11-02-24,49833.24,India,Credit Card,Accessories
+INV315,Edwin David,22-03-24,2473.92,Canada,,mobile
+INV145,Michele Vaughn,17-08-2024,41194.4,Canada,UPI,devices
+INV460,Gregory Peck,2025/04/12,4576.1,USA,Debit Card,Devices
+INV108,Donna Berry,2024/09/28,21498.37,USA,Debit Card,Devices
+INV380,William Cardenas,2025.03.26,47017.68,UK,Credit Card,tvs
+INV038,Donna Roberts,08-02-2025,12969.45,USA,UPI,laptops
+INV231,Thomas Douglas,2025.03.06,1336.1,USA,UPI,Mobile
+INV388,Dale Ryan,28-07-25,,USA,Cash,DEVICES
+INV403,Denise Rodriguez,"01 March, 2025",14435.11,australia,,tvs
+INV081,Dana Santiago,19-09-24,37464.32,UAE,Net Banking,LAPTOPS
+INV455,David Garcia,"16 April, 2024",1051.94,UK,Credit Card,MOBILE
+INV306,Ashlee Townsend,2023.08.08,47375.48,UAE,Debit Card,ACCESSORIES
+INV464,Vanessa Moore,23-12-24,9607.64,UAE,Debit Card,MOBILE
+INV410,Sherry Woods,05-01-24,42643.69,australia,Net Banking,DEVICES
+INV344,Donna Mitchell,18-09-2023,10272.17,australia,Cash,ACCESSORIES
+INV336,Ann Andrews,2024/09/22,31166.03,Germany,Cash,Tvs
+INV157,Sarah Johnson,19-07-25,28559.66,Canada,,LAPTOPS
+INV127,Stephen Thompson,2025/07/18,32221.51,UAE,Cash,laptops
+INV246,Russell French,2023.12.26,38850.96,australia,UPI,MOBILE
+INV311,Tonya Howe,14-06-2025,43006.33,UK,UPI,LAPTOPS
+INV454,Edwin Morrison,25-07-2025,44659.21,India,UPI,devices
+INV465,Mrs. Virginia Daniels,21-08-2024,27401.73,australia,Net Banking,laptops
+INV396,Brandi Gordon,02-03-24,14904.46,australia,UPI,DEVICES
+INV187,Brian Martin,25-07-24,,Germany,UPI,laptops
+INV082,Michelle Smith,2024/04/21,28507.72,UK,Net Banking,tvs
+INV390,Laura Todd,2023.12.18,13585.68,Germany,Credit Card,Laptops
+INV199,Margaret Sullivan,2024.07.01,44136.82,India,Net Banking,ACCESSORIES
+INV496,Angie Caldwell,25-12-23,14038.02,UAE,UPI,devices
+INV194,Mrs. Taylor Smith,"27 May, 2024",44962.22,USA,UPI,Accessories
+INV265,Paul Finley,2024.03.25,43452.11,australia,,DEVICES
+INV452,Laura Green,2024/05/09,11884.54,UAE,Debit Card,LAPTOPS
+INV186,Amy Wilson,29-03-24,6357.35,Germany,,accessories
+INV246,Michael Leblanc,2025.06.23,8481.69,,Credit Card,LAPTOPS
+INV294,Emily Wilson,15-07-25,31662.25,India,UPI,LAPTOPS
+INV133,Holly Walker,2023/11/15,20570.09,India,Net Banking,accessories
+INV311,Jesse Zhang,2024.05.20,8943.06,,UPI,Laptops
+INV094,Joshua Ruiz,24-09-24,13593.77,Canada,,devices
+INV198,Samantha Gill,2025/01/13,10516.25,,Debit Card,DEVICES
+INV244,Shelley Miller,15-07-24,43948.76,USA,Credit Card,Tvs
+INV277,Heidi Stark,30-10-2023,38856.09,,UPI,tvs
+INV272,Joshua Wagner,2024.10.21,40213.86,,Cash,Devices
+INV429,Carmen Bond,12-07-24,7127.21,australia,Debit Card,MOBILE
+INV449,Daniel Aguilar,13-10-23,9856.54,India,UPI,DEVICES
+INV004,Jill Brown,2023.11.14,34544.45,Canada,,ACCESSORIES
+INV219,Joyce Brown,28-07-24,42821.36,,UPI,Accessories
+INV204,Elizabeth Johnson,2024/02/17,39297.53,australia,Debit Card,accessories
+INV158,Nichole Lane,08-09-23,35421.98,UK,Net Banking,mobile
+INV359,Michael Weaver,2023/09/19,25663.01,Canada,UPI,Devices
+INV083,Andrea Peck,2023.08.28,761.89,USA,Debit Card,tvs
+INV033,Christopher Taylor,"14 December, 2024",4461.97,India,Net Banking,tvs
+INV336,Maria Fisher,26-06-25,48194.73,India,Debit Card,tvs
+INV337,Sergio Knox,21-05-24,2163.66,Germany,UPI,laptops
+INV336,Victor Baxter,15-11-2023,4798.72,UAE,,accessories
+INV103,Hannah White,24-09-24,,USA,Credit Card,DEVICES
+INV425,Cameron Irwin,13-05-25,17730.71,UAE,Debit Card,devices
+INV207,Alexander Evans,08-01-25,,UK,,DEVICES
+INV038,Jessica Gray,29-01-24,47377.27,UAE,UPI,DEVICES
+INV227,Gregory Hill,2025.08.01,38613.38,Canada,,Tvs
+INV247,Pamela Johnson,28-12-2024,19442.33,Germany,Net Banking,laptops
+INV181,Ralph Stephenson,16-08-23,35190.52,UAE,Debit Card,ACCESSORIES
+INV345,Austin Wheeler,"15 July, 2024",46604.11,australia,Cash,ACCESSORIES
+INV294,Michele Williams,"01 March, 2025",37434.73,Germany,,LAPTOPS
+INV124,Jeffrey Fernandez,"11 March, 2025",10536.94,Germany,UPI,ACCESSORIES
+INV055,Amy Gordon,15-03-2024,33952.7,australia,UPI,mobile
+INV022,Thomas Johnston,2024.10.25,16113.14,UAE,,Laptops
+INV144,Megan Flores,2024.03.25,29044.93,India,UPI,tvs
+INV258,Victoria Boyd,"20 June, 2024",34473.76,UK,,mobile
+INV353,Antonio Fry,17-06-2025,,Germany,,DEVICES
+INV186,Casey Shelton,08-10-24,9764.05,UAE,Debit Card,Accessories
+INV188,William David DDS,2025/04/05,10921.36,Canada,Cash,TVS
+INV093,Melissa Russell,23-03-24,29006.69,Germany,Credit Card,accessories
+INV439,Paul Wells,2025.05.24,40101.85,UK,,MOBILE
+INV256,Scott Thomas,2024/07/28,42544.8,Canada,,ACCESSORIES
+INV440,Kristina Faulkner,09-10-24,,USA,Net Banking,LAPTOPS
+INV417,Jasmine Scott,"16 April, 2024",31678.18,australia,Net Banking,ACCESSORIES
+INV185,Tammy Boone,14-10-23,40595.79,Canada,Credit Card,TVS
+INV445,Sandra Williams,22-05-24,29006.78,UK,Cash,accessories
+INV397,Lindsey Russo,2023.12.28,19363.01,UAE,,Laptops
+INV476,Laurie Powers,"19 January, 2024",30809.35,,Credit Card,MOBILE
+INV117,Sean Cook,"10 July, 2025",14922.14,UAE,UPI,TVS
+INV228,Timothy Hayden,"03 November, 2023",26286.32,australia,,LAPTOPS
+INV012,Nicole Rocha,2025/01/25,33270.12,USA,Debit Card,laptops
+INV480,Christine Herman,2024.10.05,1805.06,,UPI,MOBILE
+INV317,Douglas Owens,2024/12/19,46613.68,,Cash,LAPTOPS
+INV146,Dennis Hunt,2024.08.24,6998.22,UK,Credit Card,Mobile
+INV167,Robert Bowen,2025.03.17,43609.46,UAE,UPI,TVS
+INV486,Suzanne Wood,20-06-24,30080.42,,UPI,devices
+INV277,Sean Figueroa,2023/08/16,22372.09,Canada,,ACCESSORIES
+INV006,Timothy Riley,23-06-2024,38035.53,UK,Cash,accessories
+INV473,Craig Hall,2024.10.19,24114.82,India,,Accessories
+INV281,Kathryn Pena,"16 January, 2025",44167.02,,,LAPTOPS
+INV378,Phillip Burns,2025.02.16,11419.33,USA,,Laptops
+INV314,Katherine Jackson,"12 April, 2025",37274.88,UAE,,laptops
+INV149,Charles Payne,24-12-2023,31077.61,UAE,Net Banking,devices
+INV078,Kimberly May,18-09-2023,1595.48,USA,Cash,ACCESSORIES
+INV225,Sara Jones,30-04-2025,7958.84,australia,Debit Card,Accessories
+INV256,Pamela Gutierrez,"19 May, 2025",39675.52,Canada,Credit Card,LAPTOPS
+INV398,Andrea Hernandez,2024.01.20,23772.27,Germany,Cash,tvs
+INV394,Jacqueline Williamson,2025/01/02,48761.12,Germany,Net Banking,MOBILE
+INV377,Susan Hopkins,16-08-2023,49114.73,australia,,accessories
+INV373,Juan Smith,18-09-2024,27704.21,USA,Cash,tvs
+INV455,Kimberly Mitchell,28-08-2024,11280.52,USA,Debit Card,tvs
+INV142,Megan Drake,10-07-25,39562.62,India,Credit Card,devices
+INV306,Thomas Warren,2024/02/07,4929.26,UK,,mobile
+INV497,Joseph Ochoa,27-02-2024,32406.46,USA,Debit Card,TVS
+INV286,Angela Chung,"25 July, 2024",22216.59,Germany,Credit Card,tvs
+INV461,Wanda Perez,16-01-2025,22156.25,UAE,UPI,TVS
+INV096,Angela Frey,20-12-24,36753.92,UAE,UPI,DEVICES
+INV272,Anna Gray,2024/10/06,41061.22,Canada,,mobile
+INV376,Mark Warner,2023/10/07,31176.86,Canada,UPI,laptops
+INV496,Mr. Richard Knight PhD,17-10-23,9898.54,australia,UPI,laptops
+INV329,Tamara Hall,"04 July, 2025",26398.43,USA,Credit Card,LAPTOPS
+INV017,Stacy Alvarez,2023/09/09,9985.02,India,UPI,tvs
+INV360,Melinda Ramirez,28-09-24,18634.52,USA,Credit Card,Laptops
+INV427,Amanda Mcfarland,04-04-2024,32126.38,Canada,UPI,Tvs
+INV030,Daniel Thomas,02-05-25,2512.33,USA,Cash,Mobile
+INV050,Jennifer Jones,08-12-2023,26817.22,Germany,Debit Card,devices
+INV486,Lacey Atkinson,2025/01/10,28128.01,USA,Net Banking,devices
+INV341,Evelyn Campos,2023.11.20,8757.06,UK,UPI,Tvs
+INV274,Melissa Miller,05-03-25,17940.04,Canada,UPI,accessories
+INV325,Amy Kim,2025.05.16,16510.82,Germany,UPI,DEVICES
+INV393,Larry Austin,08-11-24,13077.41,australia,,TVS
+INV018,Raymond Johnson,"03 March, 2024",26121.66,UAE,Credit Card,accessories
+INV162,Joanne Perez,06-10-2024,47195.72,UAE,UPI,Devices
+INV080,Jessica Frazier,29-12-2024,,Canada,Debit Card,LAPTOPS
+INV456,Raymond Phillips,11-02-24,13184.07,UAE,Credit Card,Devices
+INV376,Angela Moore,06-02-2025,39748.76,UK,,devices
+INV329,Brittany Price,"10 May, 2024",,,Credit Card,mobile
+INV451,Aaron Parker,2024.05.09,43457.64,Germany,Net Banking,Devices
+INV324,Ashley Miller,2024.07.03,26456.98,Canada,UPI,DEVICES
+INV258,Justin Russell,2023/08/24,33844.94,,,devices
+INV222,Julian Carlson,"04 April, 2025",7826.61,Canada,Credit Card,tvs
+INV205,James Carter,"31 May, 2024",25340.24,UK,Debit Card,tvs
+INV334,Misty Hansen,08-02-24,30991.84,Germany,Debit Card,MOBILE
+INV221,Carolyn James,"19 November, 2023",29012.9,USA,Net Banking,tvs
+INV165,Derrick Thomas,"11 December, 2023",1698.24,UAE,Debit Card,Accessories
+INV227,Jason Washington,02-10-23,2721.44,Germany,Debit Card,ACCESSORIES
+INV373,Tony Le,23-08-2024,3199.63,UK,Cash,Mobile
+INV157,Christina Rodriguez,2024.03.27,16927.9,Germany,Debit Card,devices
+INV248,James Skinner,25-05-24,7496.7,India,,devices
+INV131,Erin Cook,2025/04/28,10434.45,UAE,Credit Card,tvs
+INV199,Marilyn Wheeler,"24 March, 2024",45687.0,Canada,Credit Card,MOBILE
+INV453,Travis Harris,2024.04.04,19344.71,USA,Cash,tvs
+INV096,James Flores,2025/02/24,23170.32,India,Credit Card,laptops
+INV251,Katherine Johnston,2024.02.08,1409.43,Canada,Cash,ACCESSORIES
+INV257,Douglas Hartman,"13 May, 2024",31476.72,,Credit Card,devices
+INV175,Justin Vargas,2024.09.30,4845.85,,UPI,Devices
+INV214,Randall Johnson,2025/02/18,21610.02,UAE,UPI,accessories
+INV335,Michael Gonzales,2024/03/17,34360.41,Germany,Debit Card,Accessories
+INV466,Andrea Abbott,2025/04/12,45495.6,UK,Net Banking,devices
+INV286,Jonathan Schultz,07-02-24,6360.17,Canada,Debit Card,Mobile
+INV212,Christian Henderson,2024.05.22,37407.68,UAE,Debit Card,LAPTOPS
+INV095,William Mendoza,10-06-2024,30793.09,UAE,UPI,devices
+INV119,Tammy Kane,23-06-2024,34562.99,australia,Debit Card,devices
+INV333,Rachel Ward,"29 June, 2025",19679.28,australia,Debit Card,LAPTOPS
+INV017,Linda Rocha,2023.10.27,1243.21,UAE,,Laptops
+INV388,Mary Kelly,2024/12/18,46391.61,australia,UPI,Tvs
+INV455,Kristine Newman,2024/12/18,38922.63,,Net Banking,Accessories
+INV293,Paul Sheppard,03-07-24,32248.99,India,UPI,Mobile
+INV022,Brett Walker,2025/03/06,20082.75,India,UPI,Tvs
+INV026,Lauren Johnston,2024/07/15,20202.97,UAE,Cash,TVS
+INV151,Joel Frazier,21-01-25,34652.67,UK,,TVS
+INV257,Haley Johnson,24-10-2023,29479.66,UK,,tvs
+INV233,Thomas Miller,10-05-25,44841.85,australia,Credit Card,Accessories
+INV365,Brenda Collins,2024/07/22,6615.44,USA,Net Banking,tvs
+INV363,Kelly Bailey,2023.10.18,48771.98,UK,,Devices
+INV468,Michael Flores,"24 March, 2024",33146.75,UK,Debit Card,LAPTOPS
+INV365,Michael Johnson,26-04-2024,15821.16,australia,Cash,LAPTOPS
+INV068,Megan Martin,2025/03/01,,UAE,Credit Card,tvs
+INV414,Christopher Moore,11-10-2024,24926.61,Germany,UPI,tvs
+INV308,Joel Salinas,05-12-24,,UAE,UPI,devices
+INV095,Martin Reynolds,2023/08/26,17776.48,UK,Credit Card,devices
+INV472,Sonya Cole,02-07-2024,,,Debit Card,Laptops
+INV355,Michael Harris,10-03-25,28327.77,australia,Net Banking,devices
+INV394,Rebecca Ray,"15 April, 2025",44927.72,USA,,DEVICES
+INV242,Chelsea Nguyen,2024/07/24,43040.69,Canada,UPI,Tvs
+INV314,Michael Burns,12-12-2024,36621.56,USA,,Devices
+INV148,James Long,2023.10.31,16166.18,Canada,Debit Card,devices
+INV324,Ryan Williamson,2025.04.27,9405.41,Germany,Net Banking,accessories
+INV013,Rebecca Sellers,2024.11.04,6337.32,Germany,UPI,tvs
+INV287,Cesar Wilson,2024/03/28,,Germany,Net Banking,ACCESSORIES
+INV035,James Thomas,"31 May, 2024",27724.68,India,Credit Card,Accessories
+INV316,Chad Reyes,26-12-2023,10103.77,Canada,Net Banking,Tvs
+INV331,Mr. Thomas Arias,2023/12/16,31546.42,Canada,,tvs
+INV267,Katherine Taylor,"04 April, 2024",34070.78,India,Debit Card,Devices
+INV455,Lisa Glenn,"11 August, 2023",7890.59,India,Cash,Tvs
+INV293,Mr. James Hoffman,23-12-24,29962.0,UAE,Net Banking,accessories
+INV045,Michael Perry PhD,2024.08.17,18893.39,UAE,Debit Card,devices
+INV402,Keith Flynn,22-01-2024,45711.02,australia,UPI,Mobile
+INV079,Donald Medina,2023/12/12,24431.86,UAE,Cash,laptops
+INV481,Krystal Barton,22-08-24,7069.5,India,,tvs
+INV003,Ashley Wilson,"28 March, 2025",34509.09,USA,Cash,tvs
+INV393,Wendy Weaver,"13 March, 2025",,UAE,Net Banking,laptops
+INV142,Nathan Payne,29-06-24,22335.22,USA,Cash,LAPTOPS
+INV059,Ronald Potter,22-03-2024,28201.48,USA,Debit Card,devices
+INV073,Amanda Baker,"03 June, 2025",8978.11,UAE,UPI,accessories
+INV015,Jessica Mcknight,2025.03.28,2997.57,,Credit Card,mobile
+INV306,Christine Rojas,20-01-25,34661.18,australia,UPI,Accessories
+INV366,Michael Chen,10-12-23,46177.81,australia,UPI,LAPTOPS
+INV411,Rachel Li,2025.04.20,15864.39,australia,,laptops
+INV459,Gregory Campbell,25-09-24,18490.74,UK,Net Banking,Accessories
+INV233,William Carter,2024.10.21,,australia,Credit Card,Accessories
+INV145,Scott Duke,"12 January, 2025",6806.0,USA,,Mobile
+INV406,Brandy Brady,"18 June, 2024",20340.42,,Debit Card,DEVICES
+INV082,Wendy Camacho,2023.11.10,17365.35,,,devices
+INV121,Brandi Thomas,2024/04/10,4355.77,australia,Credit Card,devices
+INV050,Pam Lowe,2024.08.18,47816.23,USA,UPI,mobile
+INV420,Mark Burton,2024.05.21,32426.96,India,Credit Card,Laptops
+INV463,Mark Beard,15-10-2023,33213.63,australia,UPI,accessories
+INV101,Paul Neal,2025/06/15,16171.59,UAE,,accessories
+INV314,Travis Murphy,05-08-23,6814.01,UAE,Credit Card,Accessories
+INV001,Sarah Davis,25-07-24,18282.61,UAE,Credit Card,laptops
+INV321,Melissa Horn,"13 April, 2025",20598.62,,UPI,laptops
+INV097,Claudia Jordan,15-01-24,46261.86,,Debit Card,Accessories
+INV069,Frank Campbell MD,13-11-2023,1277.54,australia,Net Banking,tvs
+INV071,Karina Cooper,2025.01.15,44732.33,,UPI,laptops
+INV420,Amber Sims,2025.05.14,11674.18,,UPI,Mobile
+INV122,Caleb Mathews,11-07-24,46364.94,Canada,Credit Card,Mobile
+INV058,William Patterson,19-01-25,34679.61,UK,Net Banking,Devices
+INV399,Sonia Turner,"13 June, 2025",4372.61,USA,Debit Card,Tvs
+INV343,Denise Pena,14-02-2024,27190.26,UAE,UPI,mobile
+INV006,Matthew Banks,2023.09.13,45349.73,Canada,,Accessories
+INV149,Eric Lyons,2024/02/01,,UAE,Net Banking,DEVICES
+INV323,Brandon Davis,2024.01.16,28856.57,UAE,Net Banking,DEVICES
+INV249,Casey Perez,13-01-2025,4304.68,UAE,Cash,laptops
+INV132,Adam Cooper,05-11-2023,30389.17,UK,Net Banking,tvs
+INV401,Jennifer Anderson MD,2024/05/27,40068.91,India,Cash,mobile
+INV421,Robert Garcia,2024/05/15,37761.68,,,Laptops
+INV086,Breanna Ayala,2025/03/10,42170.74,India,Net Banking,accessories
+INV086,Margaret Byrd,2023.09.26,15417.67,Germany,,tvs
+INV446,Alejandra Santos,2024.07.10,,australia,,Accessories
+INV022,Daniel Goodman,18-07-2025,32052.5,,UPI,accessories
+INV051,Michael Heath,"10 October, 2023",19862.11,Germany,Net Banking,devices
+INV347,Brenda Martinez,2025/02/21,1023.61,India,Credit Card,mobile
+INV351,Victor Edwards,2023.11.20,36399.91,UAE,Debit Card,MOBILE
+INV048,Matthew Wright,12-11-2024,33001.97,Germany,UPI,mobile
+INV439,Lisa Maxwell,21-01-25,32991.53,UK,Credit Card,LAPTOPS
+INV240,Ryan Liu,10-01-2024,46173.42,UAE,,ACCESSORIES
+INV400,Katrina Adkins,20-03-2024,3588.18,,Cash,MOBILE
+INV417,Rachel Leon,"05 February, 2024",3935.22,Germany,UPI,TVS
+INV252,Brian Porter MD,17-09-2024,38551.01,Germany,UPI,Mobile
+INV053,Alexandria Ward,05-04-2024,28781.56,UAE,,mobile
+INV328,Scott Carroll,13-05-2024,33397.99,UAE,Debit Card,accessories
+INV264,Carrie Ruiz,2025.03.24,20493.68,USA,UPI,LAPTOPS
+INV489,Kevin Smith,2024.01.18,26997.55,Canada,Cash,Accessories
+INV491,Antonio Mccormick,31-08-2024,42740.43,Canada,Credit Card,tvs
+INV104,Micheal Wang,2024/06/28,48391.89,Germany,Cash,Tvs
+INV184,Angela Herrera,2024.11.24,31823.17,Germany,Debit Card,MOBILE
+INV369,Bradley Miller,19-07-25,19743.99,UAE,,Devices
+INV495,Robert Herrera,02-06-2024,,India,Cash,mobile
+INV335,Pamela Santos,15-12-24,34064.85,UK,Net Banking,DEVICES
+INV037,Michael Blair,22-05-2025,24700.29,India,,DEVICES
+INV360,David Middleton,2023/11/02,,India,Cash,mobile
+INV303,Lee Parker,02-03-2025,5763.39,australia,UPI,DEVICES
+INV412,Casey Smith,2023/11/18,40670.29,,Cash,mobile
+INV071,Carla Benton,"13 September, 2024",39758.53,India,UPI,laptops
+INV073,Samantha Green,2024.05.18,18811.4,UK,,laptops
+INV052,Richard Adams,22-06-25,8308.81,australia,Credit Card,MOBILE
+INV475,Steven Rogers,02-07-2024,29889.66,UAE,,tvs
+INV328,Austin Joseph,"24 October, 2024",20895.55,UK,UPI,Mobile
+INV314,Kathleen Dixon,16-09-2023,39237.86,Canada,,mobile
+INV272,Mr. Jacob Scott Jr.,22-10-2024,43205.19,Germany,,LAPTOPS
+INV100,Ashley Yang,05-08-2023,34419.57,australia,,LAPTOPS
+INV473,Scott Sanchez,04-08-2024,18527.56,Germany,,Accessories
+INV389,Thomas White,2025.05.31,,India,UPI,LAPTOPS
+INV015,Robert Klein,2024.12.25,4007.55,Germany,Net Banking,tvs
+INV102,Frank Butler,"13 February, 2025",5951.58,Germany,Credit Card,Laptops
+INV193,Roger Duncan,2023/11/04,29462.07,India,,LAPTOPS
+INV313,Stephanie White,2025.04.19,18987.51,australia,Net Banking,Laptops
+INV104,Amber Morales,"15 June, 2025",34764.42,India,Cash,LAPTOPS
+INV239,Douglas Kirk,2024.04.14,38136.81,Germany,Cash,DEVICES
+INV407,Jesus Wood,17-03-24,29117.01,Germany,Credit Card,tvs
+INV111,Elizabeth Dean,29-07-24,23406.76,India,Net Banking,tvs
+INV168,Wesley Cuevas,2025.03.28,44645.22,UK,UPI,mobile
+INV241,Steven Hodges,10-02-24,,,,mobile
+INV286,Timothy Johnson,27-09-2024,20627.59,Germany,Debit Card,ACCESSORIES
+INV332,Ryan Wiley,20-04-2024,,UAE,Debit Card,Tvs
+INV013,Matthew Sweeney,2025.02.18,7361.88,,Debit Card,Accessories
+INV001,Daniel Bird,25-06-2024,34692.16,India,Cash,Tvs
+INV314,Anthony Shea DDS,15-10-23,10753.75,USA,UPI,accessories
+INV485,David Bruce,"19 June, 2024",5992.84,Canada,,DEVICES
+INV188,Jacqueline Villegas,2023/10/08,35391.25,Germany,Debit Card,ACCESSORIES
+INV059,Kathy Walsh,2024.06.05,37737.72,Germany,Net Banking,Laptops
+INV258,Keith Graham,2023.11.13,3636.77,Canada,,Tvs
+INV241,Dean Edwards,17-04-25,26876.35,UAE,,Devices
+INV355,Ronnie Nguyen,20-07-2024,44256.96,USA,Credit Card,tvs
+INV490,Benjamin Harris,31-03-2025,14159.17,UK,,laptops
+INV322,Ashley Garcia,18-07-2024,48493.94,UK,,Accessories
+INV011,Jason Herrera,"24 March, 2025",1590.81,Germany,UPI,accessories
+INV331,Eric Baker,"05 November, 2023",33459.84,australia,,Accessories
+INV157,Robert Torres,2025/02/01,11725.71,Canada,Cash,MOBILE
+INV146,Amanda Huff,2024.04.14,31122.2,UK,Net Banking,DEVICES
+INV499,Michael Schmitt,2024/06/06,34796.53,UK,Debit Card,LAPTOPS
+INV163,Megan Green,17-12-23,13390.16,UK,Debit Card,Devices
+INV177,Jared Chavez,2025/03/07,27223.4,UK,UPI,ACCESSORIES
+INV013,Anna Garcia,2025.04.11,38541.65,australia,Cash,LAPTOPS
+INV379,Adam Greer,23-01-24,16898.39,UAE,,Accessories
+INV294,Rodney Watson,2024/12/05,36562.92,australia,Cash,Mobile
+INV072,Angela Willis,16-07-25,1727.38,Germany,,ACCESSORIES
+INV029,Alison Brown,04-07-25,29379.86,Germany,Cash,LAPTOPS
+INV276,Rhonda Davis,2025.05.23,47902.37,,Debit Card,Tvs
+INV484,Erin Williams,27-07-2024,18372.71,UK,Net Banking,tvs
+INV146,Thomas Hamilton,"16 February, 2025",48887.42,USA,Debit Card,tvs
+INV227,Allen Vega,"16 December, 2023",36536.03,,Net Banking,TVS
+INV301,Terry Hill,15-07-24,10785.3,australia,UPI,ACCESSORIES
+INV492,Amanda Harvey,10-02-24,4878.19,,Net Banking,accessories
+INV364,Kathleen Andrade,10-08-24,7277.89,UK,,accessories
+INV424,Douglas Taylor,"05 January, 2024",15543.76,australia,Debit Card,mobile
+INV154,Rebecca Wright,2025.04.18,33462.72,UAE,,Laptops
+INV126,Alicia Reyes,08-02-2025,14222.24,USA,UPI,accessories
+INV445,Joshua Washington,"12 July, 2025",24064.02,USA,Cash,devices
+INV133,Erica Nelson,2023/08/24,7733.79,australia,Net Banking,laptops
+INV185,Daniel Huang,2025.03.30,47780.24,India,Cash,Accessories
+INV264,Robert Ruiz,2024/05/07,9570.75,USA,UPI,Laptops
+INV424,Yvonne Dickson,"20 October, 2023",35049.39,Canada,Credit Card,Devices
+INV007,David Ferguson,2025/04/09,18964.2,australia,,accessories
+INV112,Amy Davies,2024/01/21,41662.89,USA,,tvs
+INV068,Vickie Price,30-07-2025,15922.89,Canada,Debit Card,tvs
+INV391,Sarah Thompson,"06 November, 2024",15581.87,USA,Debit Card,laptops
+INV117,Oscar Howard,"05 November, 2024",6945.8,USA,,MOBILE
+INV397,Michael Meza,2024.10.14,2604.59,USA,Credit Card,devices
+INV466,Travis Copeland,"24 April, 2025",,UAE,Net Banking,Mobile
+INV472,Katherine Parker,18-08-24,45108.16,UK,Net Banking,ACCESSORIES
+INV075,Anthony Guzman,"19 August, 2023",17717.91,UK,UPI,DEVICES
+INV292,April Hardin,07-01-2024,29117.62,India,UPI,Laptops
+INV088,Gina Thompson,18-04-25,,USA,Debit Card,devices
+INV358,Erica Johnson,01-11-24,33839.52,USA,Debit Card,accessories
+INV264,Brenda Rodriguez,2024/09/15,38189.77,Canada,Credit Card,TVS
+INV070,Toni Brooks,2024.12.30,35384.18,India,Credit Card,accessories
+INV234,Brian Turner,17-11-23,34508.8,australia,Debit Card,Devices
+INV220,Morgan Kim,2024/12/12,44790.36,australia,Net Banking,ACCESSORIES
+INV346,Marie Thompson,2024.10.13,20120.3,USA,Credit Card,Laptops
+INV053,Tanya Buchanan,2024/01/24,48772.77,Canada,Debit Card,devices
+INV120,Robin Gray,2025.02.24,14286.66,UAE,Net Banking,Tvs
+INV487,Bethany Daniel,2025.01.30,25815.02,UK,,MOBILE
+INV251,Jenna Gamble,2024.10.17,47148.95,India,Credit Card,mobile
+INV014,Lance Mccall,2024/11/20,34120.62,UK,Cash,Devices
+INV339,Keith Zuniga,21-11-23,39740.21,Germany,Cash,tvs
+INV176,Blake Reed,08-04-24,47652.73,India,,mobile
+INV193,Stephen Davis,2025.02.04,2126.56,UAE,Net Banking,laptops
+INV367,Monica Rogers,2023.08.12,5914.41,australia,Net Banking,devices
+INV244,David Jones,19-02-24,25580.91,,Cash,tvs
+INV347,Michelle Williams,"09 July, 2024",14579.66,India,Credit Card,DEVICES
+INV429,Tracy Wilkerson,"20 August, 2024",37231.83,India,Net Banking,accessories
+INV183,Heather Bennett,2025.05.08,33231.38,Germany,Debit Card,Accessories
+INV034,Sean Curtis,"18 January, 2025",8904.07,Canada,Credit Card,tvs
+INV264,Jerry Lloyd,2023.08.29,34949.94,India,Cash,tvs
+INV051,Fernando Lynn,2023.09.30,33918.01,Canada,,Devices
+INV086,Stephen Martin,01-10-23,48486.67,Germany,,mobile
+INV148,Stephanie Davis,"07 November, 2024",,,Debit Card,devices
+INV433,Dr. Michele Reynolds,23-12-24,17173.48,USA,UPI,devices
+INV408,Steve Moore,21-10-2023,15441.43,UAE,,devices
+INV129,William Ortiz,07-10-24,33742.23,UK,Credit Card,devices
+INV110,Monica Baker,2024.03.09,32077.35,,UPI,mobile
+INV076,Brendan Long,2024/10/03,34422.68,UAE,,Tvs
+INV033,Brittany Ward,2024/07/01,13713.27,UAE,Net Banking,LAPTOPS
+INV308,Rodney Weber,2024/08/11,6121.15,Germany,Credit Card,laptops
+INV249,Alexander Jackson,17-03-24,21389.95,India,Debit Card,LAPTOPS
+INV015,Kara Wilson,"04 April, 2025",14249.71,UK,Net Banking,mobile
+INV011,John Guerrero,13-10-2023,4654.51,UAE,Credit Card,Tvs
+INV454,Jasmine Watson,26-05-2024,42070.62,UK,Debit Card,mobile
+INV062,Jeremy Baker,30-07-24,29230.78,UAE,,MOBILE
+INV063,Russell Elliott,"29 November, 2023",29424.15,,Net Banking,laptops
+INV055,Mary Miller,2024/04/27,14090.09,,Cash,DEVICES
+INV274,Jennifer Avila,"27 January, 2024",6091.59,,,Laptops
+INV480,Sara Cardenas,2024/06/24,35925.73,UAE,Credit Card,DEVICES
+INV379,Melissa Mayer,21-10-2024,39545.73,Germany,Cash,Devices
+INV359,Karen Miller,"05 July, 2025",34419.79,Germany,,TVS
+INV492,Amanda Duncan,2024.09.08,45937.37,UAE,Credit Card,LAPTOPS
+INV441,Megan Oliver,2023/11/05,31751.96,,Credit Card,Accessories
+INV482,Joann Rush,2023.12.11,20941.59,Canada,Net Banking,Tvs
+INV423,Rhonda Martinez,2024/06/27,25563.56,Canada,,devices
+INV168,Michael Harris,2025.05.03,38217.78,UK,Net Banking,tvs
+INV206,Sandra Scott,2025/07/11,16029.23,USA,Credit Card,LAPTOPS
+INV366,Renee Miller,2024/10/09,34444.79,Canada,,tvs
+INV089,Gabriel Hill,24-07-24,40076.67,Germany,Credit Card,tvs
+INV194,Alexandria Graves,02-11-24,47431.41,Germany,Credit Card,TVS
+INV360,Jennifer Perry,2023/11/27,,,UPI,ACCESSORIES
+INV491,Lauren Hanna,"20 October, 2023",28578.52,India,Net Banking,Devices
+INV233,Kristine Garcia,2024.03.13,35821.4,Germany,Cash,accessories
+INV221,Sheryl Humphrey,2024/02/25,49762.77,UAE,Net Banking,laptops
+INV075,John Lynch,02-09-2023,13459.07,australia,Debit Card,Accessories
+INV044,Jamie Montgomery,13-01-2025,43636.45,,Net Banking,Laptops
+INV377,Amanda Preston,17-04-24,5216.33,India,Credit Card,accessories
+INV182,Amber Alvarez,28-02-24,48376.89,India,Credit Card,accessories
+INV203,Alicia Roth,"26 March, 2024",44665.18,India,UPI,LAPTOPS
+INV258,Ryan Garrison,2025.01.16,43955.89,UK,Credit Card,accessories
+INV134,Sean Taylor,03-03-2025,48936.57,australia,Cash,accessories
+INV449,Roger Adams,"22 June, 2024",38197.41,UAE,UPI,accessories
+INV378,Ann Alexander,2025.07.13,7987.6,australia,Credit Card,LAPTOPS
+INV118,Natalie Malone,2025/06/07,,UAE,Debit Card,Tvs
+INV475,Anthony Moody,2023.09.23,,Canada,Net Banking,devices
+INV434,Jonathon Taylor,2025/05/26,5132.1,UAE,Debit Card,Laptops
+INV289,Laura Thompson,13-06-25,49901.23,India,UPI,DEVICES
+INV472,Sara Wright,23-07-2024,25156.48,USA,Cash,MOBILE
+INV349,Isaac Gonzalez,16-05-2024,29721.76,USA,Cash,LAPTOPS
+INV236,Kathy Reid,2023.11.08,47782.48,India,Cash,Mobile
+INV167,Dana Burns,15-07-24,43232.3,UAE,Cash,mobile
+INV309,Seth Matthews,2024.05.01,13130.61,Germany,,MOBILE
+INV107,Ryan Green,2025/05/10,20418.61,UK,Credit Card,accessories
+INV413,Dominique Hughes,"08 December, 2023",30373.92,Canada,Net Banking,mobile
+INV251,Penny Lewis,2024.01.22,24083.76,,Credit Card,Tvs
+INV223,Megan Adams,2024.06.17,25910.4,australia,Net Banking,Laptops
+INV477,Sharon Coffey,2025.01.14,32537.66,USA,Cash,Tvs
+INV245,Thomas Holland,"12 November, 2024",6825.59,UAE,Debit Card,devices
+INV283,Courtney Franklin,28-03-2024,25914.02,,,Mobile
+INV417,Michelle Hill,"29 June, 2025",29485.61,India,Credit Card,TVS
+INV094,Gregory King,2024.07.31,,,Net Banking,Accessories
+INV388,Joseph Hanson,2024.10.30,13621.18,UK,Debit Card,LAPTOPS
+INV310,Jorge Bates,"19 May, 2025",5763.37,India,Credit Card,TVS
+INV088,Kristina Wheeler,2024.03.10,20552.03,australia,Cash,Devices
+INV354,Brian Brown,2024.03.05,4837.94,UK,Credit Card,LAPTOPS
+INV009,Shannon Green,2025/02/06,10856.86,UK,Net Banking,Laptops
+INV405,Marisa Lopez,08-09-24,15395.43,australia,Debit Card,tvs
+INV463,Stephanie Trujillo,2025/04/18,22540.66,australia,,mobile
+INV104,Jennifer Flores,"20 November, 2023",41775.01,India,Cash,MOBILE
+INV434,Mary Bright,2024.02.21,42506.5,UAE,Credit Card,tvs
+INV372,Jennifer Doyle,29-10-24,45301.12,australia,Debit Card,mobile
+INV162,Laura Lee,18-02-25,44697.42,,,Mobile
+INV178,Melissa Little,2024.08.07,1529.94,UAE,Net Banking,laptops
+INV260,Megan Romero,2025/05/21,34406.22,australia,Debit Card,accessories
+INV214,Matthew Grant,"19 March, 2024",40087.88,UK,UPI,LAPTOPS
+INV384,Carl Green,22-04-2025,6890.28,Germany,Debit Card,Devices
+INV483,Susan Arroyo,2025.07.02,10866.93,India,Credit Card,accessories
+INV082,Brandon Kelly,2025/03/04,44775.64,India,Credit Card,Accessories
+INV062,Jennifer Eaton,18-05-24,13262.2,Canada,Cash,mobile
+INV459,Edward York,2024/08/03,43747.94,USA,Net Banking,mobile
+INV235,Mark Carpenter,28-11-2024,39191.79,USA,UPI,mobile
+INV061,Steve Mason,2025/06/07,8273.11,UAE,Net Banking,tvs
+INV446,Kendra Gutierrez,10-06-2025,18504.98,UK,Credit Card,laptops
+INV394,Brenda Gonzalez,16-06-2024,40552.69,Canada,Cash,DEVICES
+INV137,Dr. Victoria Thomas,"03 June, 2025",21042.93,Germany,Debit Card,devices
+INV411,Peggy Freeman,2024.12.06,20760.81,australia,UPI,accessories
+INV395,Mrs. Amy Hayes,13-01-2024,26108.76,USA,Credit Card,Accessories
+INV085,Caroline Duran,2024.08.18,38080.02,UK,UPI,Mobile
+INV410,Penny Anderson,05-07-24,21255.61,UAE,Net Banking,accessories
+INV144,Jennifer Sanford,27-05-24,7769.66,,,Laptops
+INV317,Joseph Cross,2023.08.14,44439.91,,Debit Card,ACCESSORIES
+INV276,Nicole Schmidt,"17 August, 2023",36084.59,UK,UPI,DEVICES
+INV048,Lori Wright,23-01-25,26306.13,UK,Credit Card,mobile
+INV133,Emily Garcia,2024/08/28,15545.13,,UPI,Mobile
+INV133,Carol Colon,22-03-24,2862.78,USA,,accessories
+INV174,Joy Meyer,2024/09/14,49455.5,Germany,Cash,ACCESSORIES
+INV402,Stephen Cowan,26-04-24,35860.37,Germany,Credit Card,accessories
+INV399,Katherine Christensen MD,"08 July, 2025",7754.39,,,MOBILE
+INV218,Jennifer Perez,2025/02/18,22585.12,Canada,Net Banking,devices
+INV399,Mrs. Alison Wagner,2023.11.07,29423.04,,,tvs
+INV084,Matthew Johnson,2025/06/14,24495.84,australia,Debit Card,devices
+INV109,Patricia Dean,2024.11.07,37451.57,Canada,Credit Card,devices
+INV190,Mary Valdez MD,20-01-25,26377.49,USA,Cash,accessories
+INV249,Jeremy Martinez,16-02-2024,7535.92,,Credit Card,accessories
+INV420,Christian Neal,2024.12.05,,Canada,Credit Card,mobile
+INV290,Jason Garcia,2024.09.11,39176.79,australia,Net Banking,DEVICES
+INV071,Larry Taylor,10-05-25,38203.1,australia,Debit Card,ACCESSORIES
+INV320,Kayla Williamson,10-03-24,12024.7,,Cash,DEVICES
+INV344,Brian Gonzalez,2024.01.06,32472.87,UK,Net Banking,Mobile
+INV363,Sandra Dudley,"08 May, 2024",6627.19,USA,Debit Card,Devices
+INV491,Elizabeth Williams,23-08-24,37652.65,India,Credit Card,DEVICES
+INV010,Melissa Castillo,"02 February, 2024",12641.69,australia,Credit Card,devices
+INV024,Michael Meadows,2025.05.13,1651.53,,Debit Card,TVS
+INV271,Kathleen Herring,"31 March, 2025",5005.74,USA,UPI,LAPTOPS
+INV094,Misty Garcia,"18 February, 2024",8134.25,,Net Banking,LAPTOPS
+INV493,Joyce Madden,"25 February, 2024",35808.38,UAE,,mobile
+INV166,Brett Thompson,"03 September, 2023",41473.2,USA,Credit Card,LAPTOPS
+INV306,Heather Rhodes,29-06-24,25676.75,,Credit Card,ACCESSORIES
+INV238,Anna Chang,08-09-23,24466.49,,Net Banking,laptops
+INV284,Charles Holland,15-04-24,12692.65,UK,Cash,devices
+INV326,Jeffrey Howell,16-06-25,48411.62,Canada,UPI,laptops
+INV217,Jacqueline Cooper,31-10-23,549.55,australia,UPI,accessories
+INV031,Victor Nelson,2024.05.29,12919.0,,Cash,laptops
+INV024,Karen Fisher,2025/06/22,28372.54,UAE,Credit Card,Tvs
+INV372,Ashley Horton,18-09-23,43974.83,Germany,UPI,devices
+INV350,Dr. Ashley Pruitt,"12 August, 2024",48992.2,australia,Cash,laptops
+INV108,Meghan White,2024.05.24,16758.63,UK,Net Banking,mobile
+INV005,Lisa Huffman,2025/06/17,44815.77,australia,,DEVICES
+INV449,Valerie Anderson,18-07-2025,44682.32,australia,Net Banking,Mobile
+INV424,Stephen Alexander Jr.,24-12-24,9270.74,India,Credit Card,tvs
+INV005,Michael Gregory,2025/03/22,38041.84,Canada,Debit Card,Mobile
+INV414,Misty Walker,2025/01/05,24943.53,Canada,Credit Card,Accessories
+INV311,Kelly Watts,2024/11/26,,,Credit Card,accessories
+INV283,Matthew Wright,2024/04/28,28502.5,UK,Credit Card,DEVICES
+INV034,Margaret Hernandez,2025/05/06,28710.21,Germany,UPI,ACCESSORIES
+INV348,Victoria Brown,15-12-2024,34802.8,UAE,Net Banking,devices
+INV219,Kathy Harrison,23-08-2024,16488.46,,Cash,mobile
+INV186,Angela Vasquez,07-02-24,44248.22,Germany,Credit Card,accessories
+INV162,Donald Hunter,04-10-2024,17067.94,India,Net Banking,laptops
+INV039,Jennifer Young,2024/07/25,16796.62,USA,Net Banking,MOBILE
+INV222,Kenneth Miller,25-08-2024,31501.71,Canada,Cash,LAPTOPS
+INV123,Bryan Jimenez,"23 December, 2024",41170.87,Germany,Credit Card,Devices
+INV321,Jamie Johnson,2024.10.03,4733.97,India,Credit Card,Tvs
+INV034,Brandon Munoz,2024/11/26,40218.16,India,Cash,devices
+INV347,Stefanie Hart,24-12-2024,15098.38,,,mobile
+INV443,Tiffany Cox,15-09-23,31388.4,australia,,Tvs
+INV318,Sarah Rivera,22-03-2025,46910.45,India,,devices
+INV053,Kara Sandoval,10-02-2025,3843.45,Germany,UPI,laptops
+INV216,Brent Hopkins,2023.08.05,22508.9,Germany,Debit Card,MOBILE
+INV160,Ronald Brandt,17-03-24,48007.2,Canada,Cash,Devices
+INV076,Jacqueline Rodriguez,2025.06.30,17473.57,Canada,Credit Card,Devices
+INV030,Charles Love,2025/02/14,41841.16,India,,ACCESSORIES
+INV103,David Gonzalez,2023/11/05,17406.82,australia,Net Banking,tvs
+INV297,Jenna Bryant,01-04-25,30997.11,,Cash,LAPTOPS
+INV449,George Sherman,09-09-2023,46037.7,Germany,Net Banking,laptops
+INV247,Sara Chapman,"25 March, 2025",19107.63,,Debit Card,mobile
+INV016,Judith Lawrence,29-08-24,14883.52,Germany,Net Banking,devices
+INV500,Jonathan Moreno,10-09-2023,14562.99,Germany,Cash,laptops
+INV092,Jessica Richards,2025/07/21,,UAE,Credit Card,mobile
+INV336,Tammy Thompson,26-10-2024,10906.75,australia,Debit Card,Accessories
+INV482,Robert Garcia,26-12-24,49885.9,,Net Banking,MOBILE
